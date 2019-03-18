@@ -2,9 +2,11 @@
 
 ## MATLAB Live Editor
 
-Allows you to create scripts that combine code, output, and formatted text in an executable notebook.
+The [MATLAB Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) allows you to create scripts that combine code, output, and formatted text in an executable notebook.
 
-https://www.mathworks.com/products/matlab/live-editor.html
+## Code Ocean
+
+[Code Ocean](https://codeocean.com/) is a cloud-based computational reproducibility platform, see [[1]](https://blogs.mathworks.com/loren/2018/11/21/code-ocean-matlab-and-sharing-reusable-code/) and [[2]](https://www.fmrwhy.com/2018/10/31/reproducible-fmri-codeocean/).
 
 ## Jupyter
 
@@ -16,7 +18,7 @@ Jupyter kernels: [MATLAB](https://github.com/Calysto/matlab_kernel) and [Octave]
 
 Jupyter notebooks can be opened in an online executable environment with [Binder](https://mybinder.org/).
 
-See also [Microsot Azure Notebooks](https://colab.research.google.com/) and [Google Colaboratory](https://colab.research.google.com/).
+See also [Microsot Azure Notebooks](https://notebooks.azure.com/) and [Google Colaboratory](https://colab.research.google.com/).
 
 ### Example
 
