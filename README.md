@@ -24,4 +24,4 @@ See also [Microsot Azure Notebooks](https://notebooks.azure.com/) and [Google Co
 
 [SPM notebook example](https://github.com/spm/spm-notebooks/blob/master/index.ipynb) rendered statically with [NBviewer](https://nbviewer.jupyter.org/github/spm/spm-notebooks/blob/master/index.ipynb) and interactively with [Binder](https://mybinder.org/v2/gh/spm/spm-notebooks/master?urlpath=lab).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gllmflndn/binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spm/spm-notebooks/master?filepath=index.ipynb)
