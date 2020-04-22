@@ -20,8 +20,10 @@ Jupyter notebooks can be opened in an online executable environment with [Binder
 
 See also [Microsot Azure Notebooks](https://notebooks.azure.com/) and [Google Colaboratory](https://colab.research.google.com/).
 
-### Example
+### Examples
 
 [SPM notebook example](https://github.com/spm/spm-notebooks/blob/master/index.ipynb) rendered statically with [NBviewer](https://nbviewer.jupyter.org/github/spm/spm-notebooks/blob/master/index.ipynb) and interactively with [Binder](https://mybinder.org/v2/gh/spm/spm-notebooks/master?urlpath=lab).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spm/spm-notebooks/master?filepath=index.ipynb)
+
+See also [Stephan Heunis's tutorial](https://jsheunis.github.io/2020-04-14-spm12-octave-binder/).
