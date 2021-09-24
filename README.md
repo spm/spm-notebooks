@@ -2,7 +2,7 @@
 
 ## MATLAB Live Editor
 
-The [MATLAB Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) allows you to create scripts that combine code, output, and formatted text in an executable notebook.
+The [MATLAB Live Editor](https://www.mathworks.com/products/matlab/live-editor.html) allows you to create scripts that combine code, output, and formatted text in an executable notebook. See [this](https://github.com/gllmflndn/m2html/issues/4) for exporting Live Scripts (`.mlx`) into Markdown and HTML.
 
 ## Code Ocean
 
