@@ -21,6 +21,7 @@ curl -SL https://raw.githubusercontent.com/spm/spm-docker/master/octave/spm12_r7
 cd ${HOME}/spm12/src
 export CC=gcc
 export CXX=g++
+export CPATH=/srv/conda/envs/notebook/include/octave-7.2.0/octave/
 make PLATFORM=octave MEXBIN="mkoctfile -v"
 make PLATFORM=octave install
 cd ${HOME}
