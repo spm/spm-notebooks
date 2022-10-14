@@ -19,7 +19,7 @@ jupyter labextension install jupyterlab-plotly
 mkdir ${HOME}/spm12 && curl -SL https://github.com/spm/spm12/archive/r7771.tar.gz | tar -xzC ${HOME}/spm12 --strip-components 1
 curl -SL https://raw.githubusercontent.com/spm/spm-docker/master/octave/spm12_r7771.patch | patch -d ${HOME}/spm12 -p3
 cd ${HOME}/spm12/src
-make PLATFORM=octave
+make PLATFORM=octave MEXBIN="mkoctfile -v"
 make PLATFORM=octave install
 cd ${HOME}
 octave --no-gui --eval "addpath (fullfile (getenv (\"HOME\"), \"spm12\")); savepath ();"
