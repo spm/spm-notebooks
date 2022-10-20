@@ -19,9 +19,10 @@ jupyter labextension install jupyterlab-plotly
 mkdir ${HOME}/spm12 && curl -SL https://github.com/spm/spm12/archive/r7771.tar.gz | tar -xzC ${HOME}/spm12 --strip-components 1
 curl -SL https://raw.githubusercontent.com/spm/spm-docker/master/octave/spm12_r7771.patch | patch -d ${HOME}/spm12 -p3
 cd ${HOME}/spm12/src
-conda deactivate notebook
-source ~/.bashrc
+
+conda init bash
 conda activate notebook
+source ~/.bashrc
 #export CC=gcc
 #export CXX=g++
 #export CPATH=/srv/conda/envs/notebook/include/octave-7.2.0/octave/
