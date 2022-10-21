@@ -2,4 +2,11 @@ name: xeus-octave
 channels:
   - conda-forge
 dependencies:
-  - xeus-octave >=0.0.6
+  - xeus-octave >=0.0.7
+  # For Plotly
+  - plotly
+  - ipywidgets
+  - jupyter-dash
+  # For compiling MEX files
+  - compilers
+  - make
