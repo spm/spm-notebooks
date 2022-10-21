@@ -3,7 +3,7 @@ mkdir ${HOME}/spm12 && curl -SL https://github.com/spm/spm12/archive/r7771.tar.g
 curl -SL https://raw.githubusercontent.com/spm/spm-docker/master/octave/spm12_r7771.patch | patch -d ${HOME}/spm12 -p3
 
 cd ${HOME}/spm12/src
-micromamba run -n notebook make PLATFORM=octave MEXBIN="mkoctfile -v"
+micromamba run -n notebook make PLATFORM=octave
 micromamba run -n notebook make PLATFORM=octave install
 
 cd ${HOME}
