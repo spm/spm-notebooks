@@ -1,8 +1,2 @@
-build-essential
-curl
-octave
-liboctave-dev
-gnuplot
-ghostscript
 libgl1-mesa-dev
 xvfb
