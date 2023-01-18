@@ -24,6 +24,8 @@ See also [Microsot Azure Notebooks](https://notebooks.azure.com/) and [Google Co
 
 ## Examples
 
+[SPM Live Script example](https://github.com/spm/spm-notebooks/blob/main/index.mlx) rendered statically with [MathWorks JS viewer](https://viewer.mathworks.com/?viewer=live_code&url=https://raw.githubusercontent.com/spm/spm-notebooks/main/index.mlx).
+
 [SPM notebook example](https://github.com/spm/spm-notebooks/blob/main/index.ipynb) rendered statically with [NBviewer](https://nbviewer.jupyter.org/github/spm/spm-notebooks/blob/main/index.ipynb) and interactively with [Binder](https://mybinder.org/v2/gh/spm/spm-notebooks/main?urlpath=lab).
 
 See also [Stephan Heunis's tutorial](https://jsheunis.github.io/2020-04-14-spm12-octave-binder/).
