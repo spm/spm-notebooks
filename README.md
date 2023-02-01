@@ -12,7 +12,7 @@ The [MATLAB Live Editor](https://www.mathworks.com/products/matlab/live-editor.h
 
 See [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/), [NBviewer](https://nbviewer.jupyter.org/), [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/), [Jupyter Book](https://jupyterbook.org/), [Scripts of Scripts (SoS)](https://vatlab.github.io/sos-docs/), [Thebe](https://github.com/executablebooks/thebe) and [Voilà](https://github.com/voila-dashboards/voila).
 
-Jupyter kernels: [MATLAB](https://github.com/Calysto/matlab_kernel), [Octave](https://github.com/Calysto/octave_kernel) and [Xeus Octave](https://github.com/jupyter-xeus/xeus-octave).
+Jupyter kernels: [MATLAB](https://github.com/mathworks/jupyter-matlab-proxy) and [Xeus Octave](https://github.com/jupyter-xeus/xeus-octave). See also Calypso's [MATLAB](https://github.com/Calysto/matlab_kernel) and [Octave](https://github.com/Calysto/octave_kernel) kernels.
 
 Jupyter notebooks can be opened in an online executable environment with [Binder](https://mybinder.org/).
 
