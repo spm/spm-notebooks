@@ -1,6 +1,7 @@
 # SPM Notebooks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spm/spm-notebooks/main?filepath=index.ipynb)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=spm/spm-notebooks)
 
 ## MATLAB Live Editor
 
